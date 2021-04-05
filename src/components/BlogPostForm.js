@@ -25,6 +25,7 @@ const BlogPostForm = ({ onSubmit, initialValues }) => {
     numberOfLines={9}
 
         onChangeText={(newValue) => setContent(newValue)}
+        
       />
       <TouchableOpacity
         style={{

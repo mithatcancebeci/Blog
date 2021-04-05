@@ -16,6 +16,7 @@ const EditScreen = ({ navigation, route }) => {
           editBlogPost(id, title, content, () => navigation.pop());
         }}
       />
+      
     </View>
   );
 };

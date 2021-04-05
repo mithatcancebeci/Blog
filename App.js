@@ -13,6 +13,7 @@ import { AntDesign } from "@expo/vector-icons";
 const Stack = createStackNavigator();
 
 function MyStack() {
+  
   return (
     <Stack.Navigator>
       <Stack.Screen

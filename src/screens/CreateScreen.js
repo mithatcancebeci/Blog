@@ -14,6 +14,7 @@ const CreateScreen = ({ navigation }) => {
       />
     </View>
   );
+  
 };
 const styles = StyleSheet.create({});
 export default CreateScreen;
